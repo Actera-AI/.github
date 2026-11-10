@@ -1,6 +1,6 @@
 # Actera
 
-Authority and control for AI agent actions.
+Authority and control for AI agents.
 
 Actera checks the actions AI agents try to take against rules you set, before they run. Each action is allowed, held for approval or blocked, and every decision is recorded with the policy behind it.
 
