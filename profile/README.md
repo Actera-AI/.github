@@ -13,7 +13,9 @@ Actera checks the actions AI agents try to take against rules you set, before th
 
 - [actera-claude-code](https://github.com/Actera-AI/actera-claude-code): Actera plugin for Claude Code
 - [actera-codex](https://github.com/Actera-AI/actera-codex): Actera plugin for Codex
+- [actera-copilot](https://github.com/Actera-AI/actera-copilot): Actera plugin for GitHub Copilot
 - [actera-agent-hooks](https://github.com/Actera-AI/actera-agent-hooks): policy checks and outcome reports for coding-agent hooks
 - [actera-sdk-typescript](https://github.com/Actera-AI/actera-sdk-typescript): TypeScript SDK
+- [langchain-actera](https://github.com/Actera-AI/langchain-actera): middleware for LangChain agents (`pip install langchain-actera`)
 
 The Actera connector for Claude is in Claude's Connectors Directory. [Set it up](https://docs.actera.dev/integrations/claude/).
